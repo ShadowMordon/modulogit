@@ -1,5 +1,5 @@
-Meu primeiro sistema no GIT
+Meu primeiro repositório no GIT
 
 Remodificando...
 
-Alteração feita no MASTER
+Alteração realizada no Branch MASTER
